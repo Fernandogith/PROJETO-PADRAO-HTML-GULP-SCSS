@@ -1,0 +1,31 @@
+{
+  "name": "codeboost-gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fernandogith/PROJETO-GULP.git"
+  },
+  "author": "Fernando Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fernandogith/PROJETO-GULP/issues"
+  },
+  "homepage": "https://github.com/Fernandogith/PROJETO-GULP#readme",
+  "dependencies": {
+    "@babel/core": "^7.19.3",
+    "@babel/preset-env": "^7.19.3",
+    "browser-sync": "^2.27.10",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.55.0"
+  }
+}
