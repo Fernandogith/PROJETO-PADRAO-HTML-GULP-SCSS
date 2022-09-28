@@ -1,0 +1,28 @@
+* {
+    margin: 0;                               // Remoção das margins padrões
+    padding: 0;                             // Remoção das paddings padrões
+    border: none;                          // Remoção das bordas
+    outline: none;                        // Remoção as bordas de um elemento quando selecionado
+    box-sizing: border-box;              // Respeito ao tamanho das caixas, assim não somará quando adicionado paddings
+    list-style: none;                   // Remoção dos pontos da lista
+    text-decoration: none;             // Remoção das marcações de links
+	font-family: 'Lato', sans-serif;  // Font mais utilizada como padrão
+}
+
+img {
+	max-width: 100%                  // Faz com que a imagem sempre esteja a 100% do local que for colocada dentro, respeitando sempre o tamanho
+}
+
+html {
+    font-size: 62.5%;              // Transformando o tamanho padrão de font para 10px
+}
+
+html,
+body {
+    overflow-x: hidden;           // Não permite barra lateral Horizontal
+}
+
+button {
+    background-color: transparent;  // Elimina a cor do botão
+    cursor: pointer;               // Mãosinha
+}

@@ -1,0 +1,6 @@
+.container {
+    width: 100%;
+    max-width: 124.6rem;  // É 1216px, porém por causa da soma do padding, 1246px
+    padding:  0 1.5rem;
+    margin: 0 auto;        // Centraliza a grid
+}
