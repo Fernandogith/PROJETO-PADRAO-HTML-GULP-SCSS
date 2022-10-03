@@ -1,4 +1,4 @@
-# PROJETO PADRÃO (GULP)
+# PROJETO PADRÃO DEV (GULP)
 
 Finalizando o Gulp, podemos entender que ele é utilizado para automatizar tarefas, aqui criamos um projeto padrão que:
 
