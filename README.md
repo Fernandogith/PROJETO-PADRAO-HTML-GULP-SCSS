@@ -1,6 +1,11 @@
 # PROJETO PADRÃO DEV (GULP)
 
-Finalizando o Gulp, podemos entender que ele é utilizado para automatizar tarefas, aqui criamos um projeto padrão que:
+- Padrão para projetos de desenvolvimento sem framework
+
+
+O Gulp: 
+
+Podemos entender que ele é utilizado para automatizar tarefas, aqui criamos um projeto padrão que:
 
 - Compila, concatena e minifica os arquivos dentro de js/scripts que tenham extensão .js para o arquivo all.js dentro da pasta JS;
 - Compila, concatena e minifica os arquivos dentro de js/lib informados no src da função pluginsJs( ), para o arquivo plugins.js dentro da pasta JS;
