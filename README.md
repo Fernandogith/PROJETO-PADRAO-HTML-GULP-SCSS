@@ -2,6 +2,7 @@
 
 - Padrão para projetos de desenvolvimento sem framework
 
+https://standing-nephew-02c.notion.site/Padr-es-DEV-aace63f853ba496b8da074feeed22363
 
 O Gulp: 
 
