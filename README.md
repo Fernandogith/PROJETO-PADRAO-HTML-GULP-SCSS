@@ -2,10 +2,7 @@
 
 - Padrão para projetos de desenvolvimento sem framework
 
-<<<<<<< HEAD
-=======
 https://standing-nephew-02c.notion.site/Padr-es-DEV-aace63f853ba496b8da074feeed22363
->>>>>>> origin/dev
 
 O Gulp: 
 
@@ -21,7 +18,3 @@ Podemos entender que ele é utilizado para automatizar tarefas, aqui criamos um 
 - Temos a instalação do proprio sass com a extensão para gulp
 - Temos o autoprefixer que aplica a compilação de CSS os webkits para fazer com que funcione em diferentes navegadores (Chrome, mozila…);
 - Temos já preparadas as bibliotecas AOS e SWIPER.
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/dev
