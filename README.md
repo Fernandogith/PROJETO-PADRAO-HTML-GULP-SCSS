@@ -1,4 +1,4 @@
-# PROJETO PADRÃO DEV (GULP)
+# PROJETO-PADRAO-HTML-GULP-SCSS
 
 - Padrão para projetos de desenvolvimento sem framework
 
